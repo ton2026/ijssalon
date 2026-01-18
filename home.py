@@ -1,3 +1,3 @@
 print("Hallo Wereld !")
 print("Welkom in onze ijssalon")
-print("Welkom in onze ijssalon_2")
+print("Under construction")
